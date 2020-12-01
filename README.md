@@ -5,8 +5,8 @@ I'm a Neuroscientist who is passionate about making open-source more accessible,
 
 
 ## Find me around the web 🌎: <a href="https://raw.githubusercontent.com/aliseif321/aliseif321/main/Gif/Twitter%20Logo%20Animation.gif"><img align="left" width="150" height="150" src="https://github.com/aliseif321/aliseif321/blob/main/Gif/Keyframe%20Factory%20Motion%20Design.gif?raw=true"></a>
-- Institute for Advanced Studies in Basic Sciences  <a href="https://iasbs.ac.ir/">(IASBS)</a> 
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- The university where I am researching <a href="https://iasbs.ac.ir/">IASBS</a> 
+- The projects I have done <a href="https://www.researchgate.net/profile/Ali_Seif7"> Researchgate</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/ali-seif-0306a1180/">LinkedIn</a> 💼
 
 _______________________________________________________________________________________
