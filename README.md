@@ -42,4 +42,7 @@ ________________________________________________________________________________
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-	aliseif431.vercel.app/api/spotify-playing" alt="Ali Seif Spotify Playing" width="350" />](https://open.spotify.com/user/aliseif431)
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/aliseif431)
+
+---
