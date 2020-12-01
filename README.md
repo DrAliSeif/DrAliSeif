@@ -1,7 +1,7 @@
 # Hi, I'm Ali 👋🏻 👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/aliseif321/aliseif321/main/as-header-image.png">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I'm a Neuroscientist who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C++, Python, MATLAM, 3ds Max, Photoshop and Arduino. I'm Ph.D Track student in physics at IASBS university, my Academic orientation in the field of neuroscience Research on the synchronization of brain network.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
