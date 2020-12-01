@@ -5,12 +5,12 @@ I'm a Neuroscientist who is passionate about making open-source more accessible,
 
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/MPS-matlab_logo.jpg?raw=true" width=60>|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=60>|
 |:---:|:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="https://github.com/aliseif321/aliseif321/blob/main/94c8706d0c1a367d998d77d7ba230038.jpg?raw=true" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/photoshop.png?raw=true" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/o4888.jpg?raw=true" width=60> |
+|<img src="https://raw.githubusercontent.com/aliseif321/aliseif321/d7523327f06921070e706f1f71b468de5abd371e/3ds-max-2.svg" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/photoshop.png?raw=true" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/arduino-logo-1.png?raw=true" width=60> |
 |:---:|:---:|:---:|
 
 
