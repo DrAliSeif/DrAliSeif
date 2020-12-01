@@ -1,4 +1,4 @@
-# Hi, I'm Ali 👋🏻 👨🏻‍💻
+# Hi, I'm Ali 
 
 <img src="https://raw.githubusercontent.com/aliseif321/aliseif321/main/as-header-image.png">
 I'm a Neuroscientist who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C++, Python, MATLAM, 3ds Max, Photoshop and Arduino. I'm Ph.D Track student in physics at IASBS university, my Academic orientation in the field of neuroscience Research on the synchronization of brain network.
