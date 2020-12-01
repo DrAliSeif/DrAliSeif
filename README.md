@@ -11,4 +11,4 @@ I'm a Neuroscientist who is passionate about making open-source more accessible,
 
 
 
-<a href="https://raw.githubusercontent.com/aliseif321/aliseif321/main/Gif/Twitter%20Logo%20Animation.gif"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/aliseif321/aliseif321/main/Gif/Wasting%20Time.gif"></a>
+<a href="https://raw.githubusercontent.com/aliseif321/aliseif321/main/Gif/Twitter%20Logo%20Animation.gif"><img align="left" src="https://raw.githubusercontent.com/aliseif321/aliseif321/main/Gif/Wasting%20Time.gif"></a>
