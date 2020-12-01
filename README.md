@@ -14,6 +14,7 @@ I'm a Neuroscientist who is passionate about making open-source more accessible,
 
 
 
+### Github Stats:
 
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=aliseif321)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseif321&layout=compact)
 
@@ -40,3 +41,5 @@ ________________________________________________________________________________
 
 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-	aliseif431.vercel.app/api/spotify-playing" alt="Ali Seif Spotify Playing" width="350" />](https://open.spotify.com/user/aliseif431)
