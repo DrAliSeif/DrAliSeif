@@ -41,8 +41,7 @@ ________________________________________________________________________________
 
 
 
-### Spotify Playing 🎧
-
+___________________________
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/aliseif431)
 
 ---
