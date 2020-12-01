@@ -4,12 +4,12 @@
 I'm a Neuroscientist who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C++, Python, MATLAM, 3ds Max, Photoshop and Arduino. I'm Ph.D Track student in physics at IASBS university, my Academic orientation in the field of neuroscience Research on the synchronization of brain network.
 
 
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=60>|
-|:---:|:---:|:---:|
+### Programming Languages 
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=60>|<img src="http://xahlee.info/comp/Mathematica_logo/Mathematica_8_logo.png" width=60>|
+|:---:|:---:|:---:|:---:|
 
 
-### Tools :fire:
+### Tools 
 |<img src="https://raw.githubusercontent.com/aliseif321/aliseif321/d7523327f06921070e706f1f71b468de5abd371e/3ds-max-2.svg" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/photoshop.png?raw=true" width=60> | <img src="https://github.com/aliseif321/aliseif321/blob/main/arduino-logo-1.png?raw=true" width=60> |
 |:---:|:---:|:---:|
 
