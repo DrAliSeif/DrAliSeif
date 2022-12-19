@@ -4,8 +4,8 @@ I'm a Neuroscientist who is passionate about making open-source more accessible,
 
 
 ### Programming Languages 
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=60>|<img src="http://xahlee.info/comp/Mathematica_logo/Mathematica_8_logo.png" width=60>|
-|:---:|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> |  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width=60>|
+|:---:|:---:|:---:|
 
 
 ### Tools 
